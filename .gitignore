@@ -2,7 +2,6 @@ auto-save-list/
 backups/
 elpa/
 places
-init.el
 projectile-bookmarks.eld
 projectile.cache
 config.el
