@@ -1,7 +1,10 @@
-;;
+;;;
 ;; This file is adapted from @danielmai's ~init.el~
 ;;
 (setq gc-cons-threshold 400000000)
+
+;;; Turn on column numbers
+(setq column-number-mode t)
 
 ;;; Begin initialization
 ;; Turn off mouse interface early in startup to avoid momentary display
